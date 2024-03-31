@@ -12,7 +12,7 @@
   },
   "engines": {
     "npm": "6.x",
-    "node": "14.x"
+    "node": "20.x"
   },
   "keywords": [],
   "author": "",
